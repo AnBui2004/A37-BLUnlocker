@@ -27,7 +27,7 @@ Note: When in EDL mode, your phone screen will not turn on.
 	3. Now your device will enter EDL mode!
 	
 ## devinfo.img:
-Tested and working on OPPO A37fw.
+From vphongag on vietfones.vn. Tested and working on OPPO A37fw.
 ## Credits:
 1. [Naveen Singh](https://github.com/naveensingh "Naveen Singh's Github profile") - For creating [BLUnlocker](https://github.com/naveensingh/BLUnlocker "BLUnlocker"), which this project is based on.
 2. [Meghthedev](https://github.com/Meghthedev "Meghthedev's Github profile") - For maintaining TWRP for Oppo A37.
